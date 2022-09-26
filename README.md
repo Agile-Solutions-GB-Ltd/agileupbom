@@ -1,6 +1,6 @@
 # agileupbom
 
-Python 3.9+ project to assist with the management of pipeline bill-of-materials with the following features:
+Python 3.8+ project to manage AgileUP pipeline bill-of-materials with the following features:
 
 * Linux and Windows compatible project.
 * Defines BOM model.
